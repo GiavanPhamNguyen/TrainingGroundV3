@@ -49,6 +49,14 @@ This project builds on Assignment 2 by introducing:
 
 ---
 
+## Getting Started
+Clone the repository:
+```bash
+git clone https://github.com/GiavanPhamNguyen/TrainingGroundV3.git
+cd TrainingGroundV3
+open project in IntelliJ IDEA or Kotlin-compatible IDE
+run main() in ConsoleMain.kt
+
 ## How to Play
 
 ### Main Menu Options
